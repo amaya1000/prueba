@@ -1,0 +1,1833 @@
+       
+        <channels>
+   
+    <channel>
+        <!-- latino america -->
+    <name>latino america</name>
+ 
+<item>
+    <title>[COLOR yellow]ESTA LISTA ES EXCLUSIVA DE LATINO TOTAL SI LA ESTAS VIENDO EN OTRO ADDON SABELO QUE ES UNA COPIA[/COLOR]</title>
+    <link>_</link>
+<thumbnail>http://mla-s2-p.mlstatic.com/radiador-corsa-14-sin-aire-acondicionado-8827-MLA20008560822_112013-O.jpg<thumbnail>
+    </item>
+ 
+ 
+ 
+       
+        <item>
+    <title>[COLOR blue]CHILE[/COLOR]</title>
+    <link>_</link>
+<thumbnail>http://www.banderas.com.ar/bandera-de-chile.jpg</thumbnail>
+    </item>
+               
+        <item>
+        <title>sub tv santiago</title>
+        <link>mmsh://190.196.9.186:8080/subtv</link>
+        <thumbnail>http://www.meddiostv.com/tv/subtv.jpg</thumbnail>
+        </item>
+ 
+ 
+        <item>
+        <title>mega hd</title>
+        <link>http://edge-61-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8?</link>
+        <thumbnail>http://upload.wikimedia.org/wikipedia/commons/d/da/Mega_hd.png</thumbnail>
+        </item>
+ 
+ 
+        <item>
+        <title>cnn chile</title>
+ <link>rtsp://200.104.250.183/vtr_cnn_online/cnn-web</link>
+        <thumbnail>http://img.androidsis.com/wp-content/uploads/cnn-chile.jpg</thumbnail>
+        </item>
+ 
+        <item>
+        <title>rectv</title>
+        <link>http://13rec.movil.ztreaming.com/13rec/13rec/playlist.m3u8</link>
+        <thumbnail>http://www.puranoticia.cl/front/adjunto/img/2014/04/01/foto_93786_280x190px_1.jpg</thumbnail>
+        </item>
+ 
+ 
+        <item>
+        <title>la red</title>
+        <link>http://wow1.dallas.digitalproserver.com/redtv/redtvvivo/livestream3/master.m3u8</link>
+        <thumbnail>http://3.bp.blogspot.com/-zYybGSlMFQo/UEw21CMW3KI/AAAAAAAAA8g/SgKgqMpIPjw/s1600/La+Red+(Chile+TV).png</thumbnail>
+        </item>
+       
+        <item>
+        <title>tvchile</title>
+        <link>http://edge-12-cl.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/master.m3u8</link>
+        <thumbnail>http://4.bp.blogspot.com/_pFTD3I8CXKM/S_GJyBI_1iI/AAAAAAAAC-Q/1GWE_JTmM4U/s1600/TVN.jpg</thumbnail>
+        </item>
+               
+        <item>
+        <title>tvn</title>
+        <link>http://edge-12-cl.edge.mdstrm.com/tvn-live/smil:7cb6048ff45cb5cdf7f5fed828597fd1/master.m3u8</link>
+        <thumbnail>http://www.frocus.net/images/logotv/original/tvn-chile.jpg</thumbnail>
+        </item>
+       
+        <item>
+        <title>canal 2 san felipe</title>
+        <link>rtmp://flashmedia.aconcaguared.com/live/live_605537_nhAdU2RY</link>
+        <thumbnail>http://1.bp.blogspot.com/-5382QbcemgY/U_73eMlLVCI/AAAAAAAASg0/wzd411gkOr8/s1600/Valle%2BTelevision%2B2%2BTV%2BLos%2BAndes%2BSan%2BFelipe
+
+%2BChile.png</thumbnail>
+        </item>
+       
+        <item>
+        <title>quinta tv</title>
+        <link>http://iphone-streaming.ustream.tv/uhls/2950729/streams/live/iphone/playlist.m3u8</link>
+        <thumbnail>https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-frc3/t31.0-8/c0.0.851.315/p851x315/171966_119005471592137_1298593148_o.jpg</thumbnail>
+        </item>
+       
+        <item>
+        <title>canal 5tv linares</title>
+        <link>rtmp://v1.streaminglatinoamerica.com/canal5/canal5</link>
+        <thumbnail>http://www.radioancoa.cl/wp-content/uploads/2012/06/ANCOA-CANAL5.jpg</thumbnail>
+        </item>
+       
+        <item>
+        <title>pinguino tv punta arenas</title>
+        <link>rtmp://streaming.elpinguino.com:1935/live/pinguinotv_360p</link>
+        <thumbnail>http://elpinguino.com/web2012/logo.png</thumbnail>
+        </item>
+       
+        <item>
+        <title>tv red  punta arenas</title>
+        <link>rtmp://69.164.193.177/live/myStream</link>
+        <thumbnail>http://elpinguino.com/uploads/imagenes/31ff813ec09ff24223fd1fed891336da.jpg</thumbnail>
+        </item>
+       
+        <item>
+        <title>itv patagonia hd (chile)</title>
+        <link>http://movilstream.digitalproserver.com/itv/itvvivo/itv.smil/chunklist-b1500000.m3u8</link>
+        <thumbnail>http://2.bp.blogspot.com/-4RniWElOBUU/UB2dvCK2sVI/AAAAAAAAAdM/DF5HwTNecHs/s1600/itv_patagonia.jpg</thumbnail>
+        </item>
+ 
+        <item>
+        <title>canal 9 bio bio (chile)</title>
+        <link>http://wow2.cl.digitalproserver.com/c9//c9.smil/chunklist_w1848769691_b1200000.m3u8</link>
+        <thumbnail>https://alvaromiguieles.files.wordpress.com/2012/05/475140_10150594533767204_637551787_o.jpg</thumbnail>
+        </item>
+ 
+<item>
+    <title>[COLOR blue]COSTA RICA[/COLOR]</title>
+    <link>_</link>
+<thumbnail>http://www.33ff.com/flags/L_flags/Costa-Rica_flags.gif</thumbnail>
+    </item>
+ 
+http://es.chessbase.com/portals/0/files/images/2007/AlajuelaCostaRica/bandera.jpg
+        <item>
+        <title>canal 13 sinart</title>
+        <link>rtmp://stream01.cyberfuel.com/SinartCanal13 playpath=livestream swfUrl=http://www.sinart.go.cr/canal13/sinart_video_canal13_480x360.swf live=1 </link>
+        <thumbnail>http://www.telefoniamagazine.com/wp-content/uploads/2014/04/04_30_2014_sinart_senal_digital_HD_2.jpg</thumbnail>
+        </item>
+ 
+        <item>
+        <title>cb24 tv</title>
+        <link>rtmp://ipointcablertmp.tulix.tv:1935/cb24stream/ playpath=myStream.sdp swfUrl=http://swf.tulix.tv/jwplayer/jwplayer.flash.swf live=1 
+
+pageUrl=http://ipointcable.com/iframe/plans.php?s=myStream.sdp&c=cb24stream</link>
+        <thumbnail>https://lh3.ggpht.com/hRu-Hh32IosKwsl8e6lDDA5tMdqPuV8fvhJCafPE3E_cLWfpdXqMQvBokvzcM7xiKQ=w300</thumbnail>
+        </item>
+ 
+       <item>
+        <title>tele uno tv</title>
+        <link>rtmp://k3.usastreams.com/tvuno1 playpath=tvuno1 swfUrl=http://cp.usastreams.com/swfs/jwplayer/player.swf live=1 
+
+pageUrl=http://www.teleunotv.cr.usrfiles.com/html/009a63_9988060d41bf0697edd48013027925f5.html</link>
+        <thumbnail>https://yt3.ggpht.com/-ekA0VsI3u8I/AAAAAAAAAAI/AAAAAAAAAAA/4EV5k4_UDbs/s88-c-k-no/photo.jpg</thumbnail>
+        </item>
+ 
+       <item>
+        <title>norte vision</title>
+        <link>rtmp://108.168.207.154:1938/live playpath=mystream swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback.swf/[[DYNAMIC]]/1 live=1 
+
+pageUrl=http://108.168.155.16/norte.asp</link>
+        <thumbnail>http://www.nortevisioncr.com/images/logo-nortevision.png</thumbnail>
+        </item>
+ 
+       <item>
+        <title>telefides</title>
+        <link>rtmp://stream01.cyberfuel.com/Telefides playpath=livetelefides swfUrl=http://www.telefides.com/flash/video_telefides_actualizado_480x360.swf live=1 
+
+pageUrl=http://www.telefides.com/en-vivo.html</link>
+        <thumbnail>http://www.infocom.cr/images/partners/82.jpg</thumbnail>
+        </item>
+ 
+       <item>
+        <title>colosal tv</title>
+        <link>rtmp://k3.usastreams.com/colosaltv1 playpath=colosaltv1 swfUrl=http://hostingtico.com/tv/colosaltv.swf live=1 
+
+pageUrl=http://www.colosalstereo.com/tv/</link>
+        <thumbnail>https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xaf1/v/t1.0-1/p160x160/182826_461980117161969_1820595940_n.jpg?
+
+oh=a567cbbbe62c5b2f2f89a415372e4d28&oe=5522E8FF&__gda__=1433095922_c27597c3eaf77ff6b38203e1cf8adaa4</thumbnail>
+        </item>
+ 
+ 
+ 
+       <item>
+       <title>[COLOR blue]PERU[/COLOR]</title>
+       <link>_</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/e/ed/Bandera_Flag_Per%C3%BA_Emblema_Nac.png</thumbnail>
+       </item>
+     
+ 
+       <item>
+        <title>frecuencia latina</title>
+        <link>rtmp://flatina1livefs.fplive.net/flatina1live-live/stream1</link>
+        <thumbnail>http://www.telenovelasperu.com/50aniversario/images/50TV_FrecuenciaLatina_10-Actualidad.2.jpg</thumbnail>
+        </item>
+ 
+       <item>
+        <title>la red peru</title>
+        <link>rtmp://wow1.dallas.digitalproserver.com/redtv/redtvvivo playpath=mp4:livestream1 
+
+swfUrl=http://media.digitalproserver.com/v2/jw/6.7/jwplayer.flash.swf?v=67 live=1 pageUrl=http://media.digitalproserver.com/v2/live/redtv/</link>
+        <thumbnail></thumbnail>
+        </item>
+ 
+ 
+ 
+   <item>
+   <title>[COLOR blue]ECUADOR[/COLOR]</title>
+   <link>_</link>
+<thumbnail>http://www.banderas-mundo.es/data/flags/ultra/ec.png</thumbnail>
+   </item>  
+ 
+<item>
+        <title>ecotel</title>
+        <link>rtmp://enhd.co:1935/ecoteltv/ playpath=ecoteltv swfUrl=http://enhd.co/system/misc/jwplayer6/jwplayer.flash.swf live=1 pageUrl=http://www.ecotel.tv/en-
+
+vivo/</link>
+        <thumbnail>http://www.ecotel.tv/wp-content/uploads/2014/12/senal-en-vivo.jpg</thumbnail>
+        </item>
+ 
+       
+ 
+       <item>
+        <title>tc mi canal</title>
+        <link>rtmp://50.97.142.130:1935/live/_definst_ playpath=mp4:10003_480p swfUrl=http://elcanaldelfutbol.com/static/embed/jwplayer.flash.swf live=1 
+
+pageUrl=http://www.tctelevision.com/calle7/tcinternacional/index.php</link>
+        <thumbnail>http://www.tctelevision.com/sites/all/themes/centum/logo.png</thumbnail>
+        </item>
+ 
+ 
+ 
+       <item>
+        <title>teleamazonas ecuador</title>
+        <link>rtmp://158.85.70.81/flash playpath=20103?MTQyMjg5MTI1MDs3ZDNjMWEwMTlkZGMxZTliNDQ1ZThjYTI2YjBmMTM0OQ== swfUrl=http://static3.sawlive.tv/player.swf 
+
+live=1 pageUrl=http://sawlive.tv/embed/watch/Y0ZTNlZjliYmVlNTZiYTJlYzdiOGY2NQ__/dGVsZWFtMjoxMzBkNzYwNTgzNGE3MTgyYjczOTgwNDRiOTUzMThhNzowMjEzMmM1MG</link>
+        <thumbnail>http://3.bp.blogspot.com/-g8QVuaFCJfs/T-Z2y_777KI/AAAAAAAAAnw/xhFexK2IK5c/s400/teleamazonas.gif</thumbnail>
+        </item>
+ 
+       <item>
+        <title>canela tv quito ecuador</title>
+        <link>http://38.96.148.216:1935/live/canelatv/playlist.m3u8</link>
+        <thumbnail>http://i708.photobucket.com/albums/ww87/t0p5/canela-tv.jpg</thumbnail>
+        </item>
+ 
+       <item>
+        <title>ecuador tv</title>
+        <link>rtmp://38.96.148.216:1935/live/ playpath=myStream1 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 
+
+pageUrl=http://www.getwealthyschool.com/pop/ecuatvpop.html</link>
+        <thumbnail>http://cdn2.bigcommerce.com/server1900/a57ec/product_images/uploaded_images/captura-de-pantalla-2012-10-26-a-las-10.54.19.png</thumbnail>
+        </item>
+ 
+       <item>
+        <title>ecuavisa (ecuador)</title>
+        <link>rtmp://146.185.31.242:1935/liverepeat playpath=prim11 swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://direct-
+
+stream.biz/embednews.php?c=prim11&vw=600&vh=400</link>
+        <thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/534px-Logo_Ecuavisa.svg.png</thumbnail>
+        </item>
+ 
+       <item>
+        <title>canal uno</title>
+        <link>rtmp://83.170.111.188:1935/liverepeat playpath=prim13 swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://direct-
+
+stream.biz/embednews.php?c=prim13&vw=653&vh=421</link>
+        <thumbnail>http://1.bp.blogspot.com/-3WfsZRyRdgM/USBr5mK__EI/AAAAAAAACh0/M6ijS-TEdqA/s400/canaluno.jpeg</thumbnail>
+        </item>
+ 
+ 
+ 
+ 
+<item>
+   <title>[COLOR blue]URUGUAY[/COLOR]</title>
+   <link>_</link>
+<thumbnail>http://www.banderas.pro/banderas/bandera-uruguay-6.gif</thumbnail>
+   </item>
+ 
+       <item>
+        <title>canal 10 montevideo</title>
+        <link>rtmp://cdnw1.zetatv.com.uy:80/saeta-web/saeta-web.stream</link>
+        <thumbnail>http://tvonlinegratis.com/wp-content/uploads/2014/03/Canal10Uy-500x500-300x300.jpg</thumbnail>
+        </item>
+ 
+       <item>
+   <title>[COLOR blue]MEXICO[/COLOR]</title>
+   <link>_</link>
+<thumbnail>http://www.banderasvdk.com/fotos/banderas/200-bandera-Mexico.jpg</thumbnail>
+   </item>
+ 
+       <item>
+        <title>azteca noticias</title>
+        <link>http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8</link>
+        <thumbnail>http://www.drogasmexico.org/notas/img_LrapuBa3KL.png</thumbnail>
+        </item>
+ 
+       <item>
+        <title>canal 22 mexico</title>
+        <link>rtmp://origen.cloudapp.net:1935/live/envivopc</link>
+        <thumbnail>http://fuerza.com.mx/wp-content/uploads/2013/05/CANAL-CULTURAL-MEXICANO.jpg</thumbnail>
+        </item>
+ 
+       <item>
+        <title>canal 6 guadalajara</title>
+        <link>rtmp://200.52.193.57:1935/live/unique/live_2650</link>
+        <thumbnail>http://www.freeetv.com/images/reydddd/6gdl.gif</thumbnail>
+        </item>
+ 
+       <item>
+        <title>tv mas mexico</title>
+        <link>rtmp://50.7.98.234/rtv/videortv</link>
+        <thumbnail>http://tvonlinegratis.com/wp-content/uploads/2014/05/TVMas-Logo-300x300.jpg</thumbnail>
+        </item>
+ 
+       
+       <item>
+   <title>[COLOR blue]COLOMBIA[/COLOR]</title>
+   <link>_</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Flag_of_the_President_of_Colombia.svg/200px-Flag_of_the_President_of_Colombia.svg.png</thumbnail>
+   </item>
+ 
+       <item>
+        <title>cosmovision (colombia)</title>
+        <link>http://uneapple-i.akamaihd.net/hls/live/206415/grupoune_st14@206415/st14_1.m3u8</link>
+        <thumbnail>http://www.almar.com.co/images/portafolio/imagen_id_5272.jpg</thumbnail>
+        </item>
+ 
+       <item>
+        <title>telecafe (colombia)</title>
+        <link>http://uneapple-i.akamaihd.net/hls/live/206417/grupoune_st16@206417/st16_1.m3u8</link>
+        <thumbnail>http://www.elextramedios.com/drupal/sites/default/files/images/stories/fotosarticulos/agosto2010/tv-7490-logo-telecafe.jpg</thumbnail>
+        </item>
+ 
+       <item>
+        <title>mi musica hd (colombia)</title>
+        <link>http://uneapple-i.akamaihd.net/hls/live/206731/grupoune_st20@206731/st20_1.m3u8</link>
+        <thumbnail>http://www.canalmimusica.com/wp-content/uploads/2012/11/logo-mimusica.png</thumbnail>
+        </item>
+ 
+       <item>
+        <title>life design hd (colombia)</title>
+        <link>http://uneapple-i.akamaihd.net/hls/live/207384/grupoune_st22@207384/st22_1.m3u8</link>
+        <thumbnail>http://static-cdn2.ustream.tv/i/channel/picture/1/8/6/4/18641643/18641643,640x360,r:2.jpg</thumbnail>
+        </item>
+ 
+       <item>
+        <title>caracol tv (colombia)</title>
+        <link>rtmp://93.174.93.50:443/liveedge/ playpath=ccanalhdfNU swfUrl=http://turbocast.tv/images/player.swf live=1 pageUrl=http://micast.tv/chn2.php?
+
+ch=ccanalhdfNU</link>
+        <thumbnail>http://www.softmanagement.com.co/wp-content/uploads/2013/05/caracol.png</thumbnail>
+        </item>
+ 
+       <item>
+        <title>canal noticias (colombia)</title>
+        <link>http://uneapple-i.akamaihd.net/hls/live/205016/grupoune_st7@205016/st7_1.m3u8</link>
+        <thumbnail>http://cdn.noticiaaldia.com/wp-content/uploads/2014/09/12ntn24.png</thumbnail>
+        </item>
+ 
+ 
+<item>
+       <title>[COLOR blue]el salvador[/COLOR]</title>
+       <link>_</link>
+<thumbnail>http://www.banderas.pro/banderas/bandera-el-salvador-1.gif</thumbnail>
+       </item>
+ 
+       <item>
+        <title>canal 19</title>
+        <link>rtmp://cp86438.live.edgefcs.net/live playpath=livestream3_273@56882 swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?
+
+jsEnabled=false&height=490&time=&autoplay=true&width=675 live=1 pageUrl=http://cdn.livestream.com/embed/meganoticias?
+
+layout=4&height=490&width=675&autoplay=true</link>
+        <thumbnail>http://2.bp.blogspot.com/-9VxX8_dR6Lw/UEagdrVJsuI/AAAAAAAAAV8/nBNkx93Luhs/s1600/mega.jpg</thumbnail>
+        </item>
+ 
+ 
+ 
+<item>
+       <title>canal 23</title>
+       <link>rtmp://panel.elsalvadordigital.com/canal23/ playpath=canal23 swfUrl=http://salvatruchos.com/modules/mod_sttv/tmpl/players/jwplayer/jwplayer.flash.swf 
+
+live=1 pageUrl=http://salvatruchos.com/tv/?canal=23</link>
+       <thumbnail>http://www.freeetv.com/images/reydddd/tvo23.jpg</thumbnail>
+       </item>
+ 
+ 
+<item>
+   <title>[COLOR orange]dominicana[/COLOR]</title>
+   <link>_</link>
+<thumbnail>http://www.dominicano-shop.com/assets/images/Bandera_Dominicana.png</thumbnail>
+   </item>
+ 
+ 
+<item>
+        <title>telemicro canal 5</title>
+        <link>rtmp://67.212.234.140:9095/live2/ playpath=telemicro52 swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 
+
+pageUrl=http://emisoradominicana.net/html5/play/plya.php?id=142
+</link>
+        <thumbnail>http://www.cirqueros.com/web/images/stories/telemicro%20logo.jpg</thumbnail>
+        </item>
+ 
+ 
+      <item>
+        <title>teleantillas(dominicana)</title>
+        <link>rtmp://mek4.mekstream.com/teleantillas playpath=live3_source swfUrl=http://www.mekstream.com/clients/teleantillas/player-licensed.swf live=1 
+
+pageUrl=http://teleantillas.com.do/senal-en-vivo/</link>
+        <thumbnail>http://d14tj5vpz5tbhm.cloudfront.net/files/2013/08/no_imagen.jpg</thumbnail>
+        </item>
+ 
+ 
+<item>
+        <title>telenord  canal 8 (dominicana)</title>
+        <link>rtmp://mek2.mekstream.com:1935/telenord10 playpath=live2 swfUrl=http://www.mekstream.com/clients/telenord10/player-licensed.swf live=1 
+
+pageUrl=http://www.telenord.com.do/index.php/canales/canal10</link>
+        <thumbnail>http://radioteve.com/tele/caribe/stdomingo/logo/Telenord8.jpg</thumbnail>
+        </item>
+ 
+<item>
+   <title>[COLOR blue]PUERTO RICO[/COLOR]</title>
+   <link>_</link>
+<thumbnail>http://www.lineasemanal.com/wp-content/uploads/2010/05/puerto_rico_bandera_escudo.jpg</thumbnail>
+   </item>
+ 
+       <item>
+        <title>tiva hd (puerto rico)</title>
+        <link>http://live-h1.frontlayer.net/fl729845/live/live.m3u8?wowzasessionid=1243637292</link>
+        <thumbnail>http://telemas.olympe.in/images/logos/tiva-puerto-rico.jpg</thumbnail>
+        </item>
+ 
+       <item>
+        <title>ctnl</title>
+        <link>rtmp://ph1.ministeriotv.com:1936/48/ playpath=stream2 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 
+
+pageUrl=http://www.ministeriotv.com/embed/48/640/360/FALSE/true/false</link>
+        <thumbnail></thumbnail>
+        </item>
+ 
+     
+        </channel>
+       
+        <!-- canales de peliculas -->
+       
+        <channel>
+        <name>canales de peliculas</name>
+ 
+       <item>
+       <title>[COLOR blue]PELICULAS[/COLOR]</title>
+       <link>_</link>
+<thumbnail>http://1.bp.blogspot.com/-FJ5GSd3vJsM/UHc0HQoyVHI/AAAAAAAAAPo/Wms5fG7C21g/s1600/logo.png</thumbnail>
+       </item>
+   
+ 
+ 
+<item>
+        <title>fox</title>
+        <link>http://200.76.77.237/LIVE/H01/CANAL201/PROFILE03.m3u8?</link>
+        <thumbnail>http://img2.wikia.nocookie.net/__cb20110708162050/es-glee/es/images/f/f8/FOX_logo.png</thumbnail>
+        </item>
+ 
+    <item>
+        <title>comedy central</title>
+        <link>http://200.76.77.237/LIVE/H01/CANAL217/PROFILE03.m3u8?</link>
+        <thumbnail>http://americablejapan.net/images/station_logos/comedy_central_hd_logo.jpg</thumbnail>
+        </item>
+ 
+ 
+ 
+     
+ 
+     
+ 
+       <item>
+        <title>tnt hd</title>
+        <link>http://200.76.77.237/LIVE/H01/CANAL435/PROFILE03.m3u8</link>
+        <thumbnail>http://3.bp.blogspot.com/-1GEQNV-gvuo/TyOYg4vO12I/AAAAAAAAAGU/RezAv2WaiX0/s200/tnt_hd.png</thumbnail>
+        </item>
+ 
+       <item>
+        <title>golden hd</title>
+        <link>http://200.76.77.237/LIVE/H01/CANAL436/PROFILE03.m3u8</link>
+        <thumbnail>http://1.bp.blogspot.com/-bi7a6jPsxqA/UNOLfJxumOI/AAAAAAAAACE/a6Os5_4LYMY/s200/Golden_HD.jpg</thumbnail>
+        </item>
+ 
+       <item>
+        <title>universal hd</title>
+        <link>http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?</link>
+        <thumbnail>http://www.estamosenlinea.com.ve/wp-content/uploads/2010/11/Universal-HD.png</thumbnail>
+        </item>
+ 
+     
+       <item>
+        <title>cinemax</title>
+        <link>http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=353&lan=2&rows=40&f=.m3u8</link>
+        <thumbnail>http://n.pl/-/media/N/NPL/Kanaly/logo%20na%20strony%20kanalow/cineamaxHD.png?bc=White&h=355&w=630</thumbnail>
+        </item>
+ 
+       <item>
+        <title>space hd</title>
+        <link>http://200.76.77.237/LIVE/H01/CANAL445/PROFILE03.m3u8?</link>
+        <thumbnail>http://3.bp.blogspot.com/-CNxee4SfnJ4/TyJIrX9VP8I/AAAAAAAAADM/yLEZuzTbpBw/s1600/Space_lam_hd.png</thumbnail>
+        </item>
+ 
+ 
+   
+     
+<item>
+       <title>[COLOR blue]INFANTILES[/COLOR]</title>
+       <link>_</link>
+<thumbnail>http://cdn.encuentos.com/wp-content/uploads/2013/05/LOGO-Espacio-+-TV.jpg</thumbnail>
+       </item>
+ 
+       <item>
+        <title>disney chanel</title>
+        <link>http://200.76.77.237/LIVE/H01/CANAL312/PROFILE03.m3u8</link>
+        <thumbnail>http://freedomforce.com/wp-content/uploads/2014/12/Disney_channel_2007.png</thumbnail>
+        </item>
+ 
+       <item>
+        <title>boomerang</title>
+        <link>http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=229&lan=2&rows=40&f=.m3u8</link>
+        <thumbnail>http://2.bp.blogspot.com/_M9pO6rjSnnM/SyqoX2virSI/AAAAAAAAANQ/XG1sypDJ_-k/s400/boomerang.gif</thumbnail>
+        </item>
+ 
+ 
+ 
+       <item>
+        <title>Cartoon Network</title>
+        <link>http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?</link>
+        <thumbnail>http://static.tumblr.com/y2k03pb/judm4flie/cnla.jpg</thumbnail>
+        </item>
+ 
+       
+ 
+       <item>
+        <title>ToonCast</title>
+        <link>http://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8?</link>
+        <thumbnail>http://i1.minus.com/iOgBh5LP7bAv5.png</thumbnail>
+        </item>
+ 
+ 
+ 
+<item>
+       <title>[COLOR blue]VARIOS[/COLOR]</title>
+       <link>_</link>
+<thumbnail>http://shop2.sprint.com/assets/images/shop/services/sprinttv_xtra_channel_logos_365x190_v1_en.jpg</thumbnail>
+       </item>
+ 
+ 
+ 
+<item>
+        <title>guatevision hq</title>
+        <link>rtsp://bravo967.sysvirtuales.com/live/stream1.sdp</link>
+        <thumbnail>https://skyenguatemala.files.wordpress.com/2012/06/logo-guatevision-alta.jpg</thumbnail>
+        </item>
+ 
+ 
+<item>
+        <title>telesistema</title>
+        <link>http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8</link>
+        <thumbnail>http://st-listas.20minutos.es/images/2009-06/110930/1379861_640px.jpg?1247098995</thumbnail>
+        </item>
+ 
+       <item>
+        <title>tele antioquia</title>
+        <link>http://uneapple-i.akamaihd.net/hls/live/205013/grupoune_st4@205013/st4_index.m3u8</link>
+        <thumbnail>http://www.patrimoniofilmico.org.co/anterior/images/noticias/2006-11/teleantioquia.jpg</thumbnail>
+        </item>
+ 
+<item>
+        <title>telearagua</title>
+        <link>rtmp://edge.wms28.lorini.net/telearagua playpath=telearagua1 swfUrl=http://www.lorini.tv/flvplayer/FLVplayer_Custom.swf live=1 
+
+pageUrl=http://www.lorini.net/streaming/clientes/telearagua.htm</link>
+        <thumbnail>https://lh4.googleusercontent.com/-TzbFoTN5xQQ/UYgV3LjPi5I/AAAAAAAACFo/7cduaI3aeW4/s288/logo%2520de%2520telearagua.png</thumbnail>
+        </item>
+ 
+  <item>
+        <title>estrella tv</title>
+        <link>http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=478&lan=2&rows=40&f=.m3u8</link>
+        <thumbnail>http://rogersimmons.com/wp-content/uploads/2009/09/estrella.jpg</thumbnail>
+        </item>
+ 
+ 
+ 
+ <item>
+        <title>wapa race</title>
+        <link>rtmp://demo.iblups.com/demo playpath=SoeNe8hdA0 swfUrl=http://iblups.com/playertvlive123456789.swf?config=configplayer%2Ephp%3Fid
+
+%3D19967&autostart=true live=1 pageUrl=http://iblups.com/e_WapaPRace-498-310</link>
+        <thumbnail>https://pedrojulioserrano.files.wordpress.com/2010/12/200px-wapa-tv_logo.png</thumbnail>
+        </item>
+ 
+ 
+ 
+<item>
+        <title>el canal  de las estrellas</title>
+        <link>http://200.76.77.237/LIVE/H01/CANAL102/PROFILE03.m3u8?</link>
+        <thumbnail>http://chingonatv.com/wp-content/uploads/2013/11/canal-de-las-estrellas-en-HD.jpg</thumbnail>
+        </item>
+ 
+ 
+       <item>
+        <title>univision hd</title>
+        <link>rtmp://50.7.78.138:443/live?sKw4Z57KH67C5S3CFbZCHgSot7rcOoOR playpath=live_univision_hd26 
+
+swfUrl=http://vaughnlive.tv/4269014763/swf/VaughnSoftPlayer.swf live=1 pageUrl=http://vaughnlive.tv/univision_hd26</link>
+        <thumbnail>http://www.hd-report.com/wp-content/uploads/2010/05/univision_hd_blk.jpg</thumbnail>
+        </item>
+ 
+       
+       <item>
+        <title>america</title>
+        <link>http://ooyalahd2-f.akamaihd.net/i/americatv_delivery@25405/index_1728_av-p.m3u8</link>
+        <thumbnail>http://www.datosgratis.net/wp-content/uploads/2011/08/america-tv.jpg</thumbnail>
+        </item>
+ 
+ 
+ 
+       <item>
+        <title>unimas</title>
+        <link>rtmp://198.255.0.2:443/live?sKw4Z57KH67C5S3CFbZCHgSot7rcOoOR playpath=live_unimas10 swfUrl=http://vaughnlive.tv/4269014763/swf/VaughnSoftPlayer.swf 
+
+live=1 pageUrl=http://vaughnlive.tv/unimas10</link>
+        <thumbnail>http://www.panoramaaudiovisual.com/wp-content/uploads/2012/12/Unimas.jpg</thumbnail>
+        </item>
+ 
+ 
+       <item>
+        <title>RAI PREMIUM</title>
+        <link>mmsh://212.162.68.163:80/Rai_Premium?MSWMExt.asf</link>
+        <thumbnail>http://www.art3fatti.com/wp-content/uploads/2013/10/00_RAIPREMIUM.jpg</thumbnail>
+        </item>
+ 
+<item>
+        <title>rcn</title>
+        <link>rtmp://93.174.93.50:443/liveedge/ playpath=rcanalhdSbQ swfUrl=http://turbocast.tv/images/player.swf live=1 pageUrl=http://micast.tv/chn2.php?
+
+ch=rcanalhdSbQ</link>
+        <thumbnail>http://2.bp.blogspot.com/-uzxxaDFapB0/TyNwa-94fpI/AAAAAAAAAEE/Zh41QCLas9o/s1600/Canal_RCN.gif</thumbnail>
+        </item>
+ 
+ 
+<item>
+        <title>telemundo</title>
+        <link>rtmp://50.7.69.186/iguide/4w89yalrid1j4jt playpath=4w89yalrid1j4jt swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 
+
+pageUrl=http://www.iguide.to/embedplayer_new.php?width=630&height=430&channel=13887&autoplay=true    token=#ed%h0#w18623jsda6523lDGD</link>
+        <thumbnail>http://st-listas.20minutos.es/images/2012-01/319078/list_640px.jpg?1328297352</thumbnail>
+        </item>
+ 
+       <item>
+        <title>tlnovelas</title>
+        <link>http://200.76.77.237/LIVE/H01/CANAL275/PROFILE03.m3u8?</link>
+        <thumbnail>http://blancolorenz.com/wp-content/uploads/2012/06/TLNovelas.png</thumbnail>
+        </item>
+ 
+       <item>
+        <title>gala tv</title>
+        <link>http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=60&lan=2&rows=40&f=.m3u8</link>
+        <thumbnail>http://www.underconsideration.com/brandnew/archives/galavision_tv_logo_detail.jpg</thumbnail>
+        </item>
+ 
+       <item>
+        <title>telesur</title>
+        <link>http://cdn2.telesur.ultrabase.net/livecf/telesurLive/master.m3u8</link>
+        <thumbnail>https://pbs.twimg.com/profile_images/499211778081845249/n0FEyh9f.png</thumbnail>
+        </item>
+ 
+ 
+<item>
+   <title>[COLOR blue]deportes[/COLOR]</title>
+   <link>_</link>
+<thumbnail>http://posdataweb.com.ar/wp-content/uploads/2014/12/deportes.jpg</thumbnail>
+   </item>
+           
+     
+ <item>
+        <title>espn +</title>
+        <link>http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?</link>
+        <thumbnail>http://2.bp.blogspot.com/-oWNM4gzc8ds/U4T7eaXp7tI/AAAAAAAACcs/RgUEtzV5yyM/s1600/ESPN-+-Latinoamerica-en-Vivo-fullcaleta-tv-online-portada-png-
+
+gif.png</thumbnail>
+        </item>
+ 
+ 
+ 
+<item>
+        <title>espn</title>
+        <link>http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?</link>
+        <thumbnail>http://a.espncdn.com/i/espn/espn_facebook.png</thumbnail>
+        </item>
+ 
+<item>
+        <title>fox sport 2</title>
+        <link>http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?</link>
+        <thumbnail>http://upload.wikimedia.org/wikipedia/en/9/9f/Fox_Sports_2_Logo.jpg</thumbnail>
+        </item>
+ 
+       <item>
+        <title>fox sport</title>
+        <link>http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?</link>
+        <thumbnail>http://www.bigonebrasil.com/wp-content/uploads/2012/03/FOX_Sports_Brasil.png</thumbnail>
+        </item>
+ 
+  <item>
+       <title>fox sport argentina</title>
+       <link>http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?HasBahCa</link>
+       <thumbnail>http://www.televisiongratis.com.ar/components/com_televisiongratis/images/fox-sports--544.gif</thumbnail>
+       </item>
+     
+ 
+<item>
+        <title>fox sport 2 argentina</title>
+        <link>http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?HasBahCa</link>
+        <thumbnail>http://www.dossiernet.com.ar/assets/scripts/load.php?src=http://www.dossiernet.com.ar/assets/uploads/images/fox2.jpg&q=95&w=808&h=566</thumbnail>
+        </item>
+ 
+ <item>
+       <title>espn HD argentina</title>
+       <link>http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?HasBahCa</link>
+       <thumbnail>http://www.canalesamericanos.com/wp-content/uploads/2014/08/espn-hd.png</thumbnail>
+       </item>
+     
+ 
+<item>
+        <title>espn argentina</title>
+        <link>http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?HasBahCa</link>
+        <thumbnail>http://a1.mzstatic.com/us/r30/Purple4/v4/d1/79/45/d1794534-38f8-c7a8-c627-c728a9d4d336/screen480x480.jpeg</thumbnail>
+        </item>
+ 
+<item>
+       <title>espn 2 </title>
+       <link>http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?HasBahCa</link>
+       <thumbnail>http://www.logotypes101.com/logos/765/C5E4EFC18192B4CD88302ADE2383C67F/ESPN_2.png</thumbnail>
+       </item>
+     
+ 
+<item>
+        <title>espn 3</title>
+        <link>http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?HasBahCa</link>
+        <thumbnail>http://3.bp.blogspot.com/-mcA25q2hTmw/UPSHBBBWqbI/AAAAAAAACtI/uTIVK268-rI/s1600/ESPN3.jpg</thumbnail>
+        </item>
+ 
+ 
+<item>
+        <title>tvc deportes</title>
+        <link>rtmp://50.7.28.210/app playpath=16782?MTQyNTQ4Nzc0NDthNzMyYjA2NmI5NTQ1MjRkMWM1NDg1NzU1ZTM1NDU5Yw== swfUrl=http://cdn.shidurlive.com/player.swf live=1 
+
+pageUrl=http://www.shidurlive.com/stream/4e7a51334e6a597a4e6a51324e546377/a85631701297</link>
+        <thumbnail>http://www.bus-k.me/file/pic/listing/2012/10/800677d3301d25eff17585277a4318b3.png</thumbnail>
+        </item>
+ 
+ 
+   <item>
+       <title>América Sports</title>
+       <link>http://iphone-streaming.ustream.tv/uhls/11602466/streams/live/iphone/playlist.m3u8</link>
+       <thumbnail>http://4.bp.blogspot.com/-3Wua8Yy4Vj4/UWwXlYietpI/AAAAAAAAM1Y/CHA9EtYgE_Q/s1600/America+Sports.gif</thumbnail>
+       </item>
+ 
+ <item>
+       <title>TyC Sports</title>
+       <link>rtmp://38.95.112.2/tyc-edge/live3</link>
+       <thumbnail>http://basta.metro951.com/files/2009/06/tyc.jpg</thumbnail>
+       </item>
+             
+  <item>
+       <title>Telemax</title>
+       <link>http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8</link>
+       <thumbnail>http://i.imgur.com/Z1nvf.png</thumbnail>
+       </item>
+     
+ 
+ 
+ 
+<item>
+   <title>[COLOR blue]ARGENTINA[/COLOR]</title>
+   <link>_</link>
+<thumbnail>http://escudos.galeon.com/figuritas/banderasargentinas/argentina.jpg</thumbnail>
+   </item>
+             
+   
+       <item>
+       <title>Tango City</title>
+       <link>mms://stream.tangocity.com.ar/tangocity</link>
+       <thumbnail>http://www.sintelevisor.com/tv/imagenes/tangocity.jpg</thumbnail>
+       </item>
+     
+     
+   <item>
+       <title>america 24hs</title>
+       <link>http://iphone-streaming.ustream.tv/uhls/17916700/streams/live/iphone/playlist.m3u8</link>
+       <thumbnail>http://3.bp.blogspot.com/-c6mP8BZgsq0/TrGplvI8N2I/AAAAAAAAAak/Ia0wd2RQORw/s1600/america.JPG</thumbnail>
+       </item>
+     
+   
+       <item>
+       <title>Canal 26</title>
+       <link>http://live-edge01.telecentro.net.ar/live/smil:c26.smil/master.m3u8</link>
+       <thumbnail>https://pbs.twimg.com/profile_images/433281881442758657/-teB8e01.jpeg</thumbnail>
+       </item>
+     
+       <item>
+       <title>TECtv</title>
+       <link>http://lsdencuentrohls-lh.akamaihd.net/i/TECTVHLS_1@198012/master.m3u8</link>
+       <thumbnail>http://portal.educ.ar/noticias/tectv.jpg</thumbnail>
+       </item>
+     
+       <item>
+       <title>viajar hd</title>
+       <link>http://eventshd-lh.akamaihd.net/i/viajar_1@168433/master.m3u8</link>
+       <thumbnail>http://1.bp.blogspot.com/-3iFlEMk9AMw/T2pDXusXHuI/AAAAAAAAAA8/9GAZiVInRM0/s1600/56a5e2fcf71b62ffae02e4bb61cf5c5e.jpg</thumbnail>
+       </item>
+     
+       <item>
+       <title>magazine</title>
+       <link>rtsp://stream.mgzn.tv/live/mgzntv/mgzntv</link>
+       <thumbnail>http://www.vivo-tv.com/css/magazine.jpg</thumbnail>
+       </item>
+     
+       <item>
+       <title>g360</title>
+       <link>http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8</link>
+       <thumbnail>http://radioteve.com/tele/suramerica/argentina/logos/360tv.jpg</thumbnail>
+       </item>
+     
+       <item>
+       <title>c5n</title>
+       <link>rtmp://c5n.stweb.tv:1935/c5n/live</link>
+       <thumbnail>http://www.eldiaonline.com/wp-content/uploads/2014/01/C5N.jpg</thumbnail>
+       </item>
+     
+<item>
+        <title>telefe canal 11</title>
+        <link>rtmp://198.255.0.18:443/live?f8bL3aPTPzqOSpb99XoIYCVfAkwpX6Ki playpath=live_beto_3 swfUrl=http://vaughnlive.tv/4265270904/swf/VaughnSoftPlayer.swf 
+
+live=1 pageUrl=http://vaughnlive.tv/embed/video/beto_3?viewers=true&watermark=left&autoplay=true
+</link>
+        <thumbnail>http://2.bp.blogspot.com/-CnfSpR48AxY/T4y-VUjqGMI/AAAAAAAADuo/1EfuAr8aBZU/s1600/telefe%2B2012.jpg</thumbnail>
+        </item>
+ 
+       <item>
+       <title>Canal 13</title>
+       <link>rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1</link>
+       <thumbnail>https://cgp-media.s3.amazonaws.com/media/image/artear_logos-1411075049.jpg</thumbnail>
+       </item>
+     
+       <item>
+       <title>Canal 5 Tigre (Argentina)</title>
+       <link>http://iphone-streaming.ustream.tv/ustreamVideo/11068260/streams/live/playlist.m3u8</link>
+       <thumbnail>http://i40.photobucket.com/albums/e230/avalenzano/783292584-1-canal-5-tigre-tv-argentina_zps658c0023.png</thumbnail>
+       </item>
+     
+       <item>
+       <title>Canal 4 san juan</title>
+       <link>rtmp://streamlky.alsolnet.com:1935/canal4sanjuan/live</link>
+       <thumbnail>https://lh4.googleusercontent.com/-4Hfhm3AQcIM/AAAAAAAAAAI/AAAAAAAAABA/bmhs9b2Y7y0/photo.jpg</thumbnail>
+       </item>
+     
+     
+     
+       <item>
+       <title>Canal rural</title>
+       <link>rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural1</link>
+       <thumbnail>http://www.elrural.com/sites/default/files/2011/11/chart.jpg</thumbnail>
+       </item>
+     
+       <item>
+       <title>Quiero Musica</title>
+       <link>mms://streamqm.uigc.net/qmusica</link>
+       <thumbnail>http://i40.photobucket.com/albums/e230/avalenzano/1291213518802_f1_zps297a01a2.jpg</thumbnail>
+       </item>
+     
+       <item>
+       <title>vivra tv</title>
+       <link>http://iphone-streaming.ustream.tv/uhls/10002020/streams/live/iphone/playlist.m3u8</link>
+       <thumbnail>http://telemas.olympe.in/images/logos/vivra-tv.jpg</thumbnail>
+       </item>
+     
+       <item>
+       <title>canal 2 misiones</title>
+       <link>http://190.57.237.214/live/canal.m3u8</link>
+       <thumbnail>http://www.canal2misiones.com.ar/images/slides/Disfruta-Canal-2.jpg</thumbnail>
+       </item>
+                     
+       <item>
+       <title>canal 4 misiones</title>
+       <link>rtmp://67.212.178.250/sav_canal4/myStream</link>
+       <thumbnail>http://tvonlinegratis.com/wp-content/uploads/2014/08/Canal4-Posadas-Logo-300x300.jpg</thumbnail>
+       </item>
+     
+       <item>
+       <title>canal 20 salta</title>
+       <link>http://iphone-streaming.ustream.tv/uhls/13425182/streams/live/iphone/playlist.m3u8</link>
+       <thumbnail>http://agenciaflagra.com/wp-content/uploads/2011/02/logo_canal20.jpg</thumbnail>
+       </item>
+     
+       <item>
+       <title>canal 27 salta</title>
+       <link>rtmp://origin.tikilive.com/show_tikilive/36186/mainstream</link>
+       <thumbnail>http://i.ytimg.com/vi/diKAOxTv6pA/0.jpg</thumbnail>
+       </item>
+     
+       <item>
+       <title>tn noticias</title>
+       <link>rtsp://stream.tn.com.ar/live/tnhd1</link>
+       <thumbnail>http://profile.pics.ak.sonicocnt.com/photos/22/BE/DN/500005884/bg_profile.jpg?1253589153</thumbnail>
+       </item>
+     
+       <item>
+       <title>canal 2 mar del plata</title>
+       <link>http://iphone-streaming.ustream.tv/uhls/13284341/streams/live/iphone/playlist.m3u8</link>
+       <thumbnail>http://4.bp.blogspot.com/-oO0D4MYfrkY/UcYrKcIBT4I/AAAAAAAAaOs/TiCgWnaJy2U/s1600/canal2mdp.jpg</thumbnail>
+       </item>
+ 
+       <item>
+       <title>playa pinamar</title>
+       <link>rtmp://201.219.100.30/camara-bunge/camara-bunge.stream</link>
+       <thumbnail></thumbnail>
+       </item>
+ 
+       <item>
+       <title>canal 2 santa teresita</title>
+       <link>mmsh://190.14.32.204:3905/</link>
+       <thumbnail>http://files.csdestrellademar.webnode.com.ar/200000116-2162b225c6/logo_avc2.jpg</thumbnail>
+       </item>
+ 
+       <item>
+       <title>celta tv tres arroyos</title>
+       <link>http://iphone-streaming.ustream.tv/uhls/13952483/streams/live/iphone/playlist.m3u8</link>
+       <thumbnail>https://frecuenciamutual.files.wordpress.com/2012/05/41573_153526731331279_979_n.jpg</thumbnail>
+       </item>
+ 
+       <item>
+       <title>chaco tv</title>
+       <link>rtmp://debred5.ecomchaco.com.ar/oflaDemo/chacotv</link>
+       <thumbnail>http://www.larednoticias.info/panel/archivos/404383.jpg</thumbnail>
+       </item>
+ 
+       <item>
+       <title>canal 9 comodoro rivadavia</title>
+       <link>rtmp://www.canal9comodoro.com/live/c9/mp4:canal</link>
+       <thumbnail>http://www.canal9comodoro.com/images/splash.jpg</thumbnail>
+       </item>
+ 
+       <item>
+       <title>canal 4 esquel chubut</title>
+       <link>rtmp://streamlky.alsolnet.com/canal4/live</link>
+       <thumbnail>http://www.televisiongratis.com.ar/components/com_televisiongratis/images/canal-4-esquel-114.jpg</thumbnail>
+       </item>
+ 
+       <item>
+       <title>canal 10 cordoba</title>
+       <link>http://iphone-streaming.ustream.tv/uhls/18545218/streams/live/iphone/playlist.m3u8</link>
+       <thumbnail>https://elojocondientes.files.wordpress.com/2011/06/canal-10-cordoba.jpg</thumbnail>
+       </item>
+ 
+       <item>
+       <title>cba24n</title>
+       <link>http://iphone-streaming.ustream.tv/uhls/11678041/streams/live/iphone/playlist.m3u8</link>
+       <thumbnail>http://www.cba24n.com.ar/institucional/tx_cba24n.jpg</thumbnail>
+       </item>
+ 
+       <item>
+       <title>quatro tv rio cuarto</title>
+       <link>rtmp://enhd.co/8938/8938</link>
+       <thumbnail>http://www.quatrotv.com/wp-content/uploads/2014/12/quatro-tv-rio-cuarto-1.png</thumbnail>
+       </item>
+     
+       <item>
+       <title>imperio tv rio cuarto</title>
+       <link>http://iphone-streaming.ustream.tv/uhls/18376856/streams/live/iphone/playlist.m3u8</link>
+       <thumbnail>http://imperiotv.com.ar/wp-content/uploads/canal_top.jpg</thumbnail>
+       </item>
+     
+       <item>
+       <title>vicuña mackenna cordoba</title>
+       <link>http://iphone-streaming.ustream.tv/uhls/11057537/streams/live/iphone/playlist.m3u8</link>
+       <thumbnail></thumbnail>
+       </item>
+     
+       <item>
+       <title>tele movil 5 corrientes</title>
+       <link>http://iphone-streaming.ustream.tv/uhls/14816945/streams/live/iphone/playlist.m3u8</link>
+       <thumbnail>http://img.youtube.com/vi/fV5M4fKuZQw/0.jpg</thumbnail>
+       </item>
+     
+       <item>
+       <title>corrientes 7 tv </title>
+       <link>rtmp://origin.tikilive.com/show_tikilive/36264/mainstream</link>
+       <thumbnail>http://i911.photobucket.com/albums/ac316/spjacd/7tv.jpg</thumbnail>
+       </item>
+     
+       <item>
+       <title>13 tv corrientes</title>
+       <link>rtsp://coninfo.info/13m</link>
+       <thumbnail>http://www.televisiongratis.com.ar/components/com_televisiongratis/images/canal-13-corrientes---13-max-tv-572.jpg</thumbnail>
+       </item>
+     
+       <item>
+       <title>canal 11 parana entre rios</title>
+       <link>http://iphone-streaming.ustream.tv/uhls/8957585/streams/live/iphone/playlist.m3u8</link>
+       <thumbnail>http://www.724.tv/Eserler/Resim/Canal-11-Paran%C3%A1.jpg</thumbnail>
+       </item>
+     
+       <item>
+       <title>canal 10 san jose entre rios</title>
+       <link>http://iphone-streaming.ustream.tv/uhls/253309/streams/live/iphone/playlist.m3u8</link>
+       <thumbnail>http://2.bp.blogspot.com/-YRwLG1VUGyg/TsfAJESs9yI/AAAAAAAABgI/Y-EbAN5cYBs/s1600/c10sanjoseentrerios.jpg</thumbnail>
+       </item>
+     
+       <item>
+       <title>canal 4 jujuy</title>
+       <link>rtmp://streaming.wirenetserver.com.ar/canal4/live_1</link>
+       <thumbnail>http://www.tutvonline.tv/wp-content/uploads/2014/07/canal-4-jujuy1-184x124.jpg</thumbnail>
+       </item>
+     
+       <item>
+       <title>canal 13 la pampa</title>
+       <link>http://iphone-streaming.ustream.tv/uhls/10017350/streams/live/iphone/playlist.m3u8</link>
+       <thumbnail></thumbnail>
+       </item>
+     
+       <item>
+       <title>canal 9 posadas</title>
+       <link>http://iphone-streaming.ustream.tv/uhls/18361719/streams/live/iphone/playlist.m3u8</link>
+       <thumbnail>http://static0.misionesonline.net/wp-content/uploads/2014/09/Canal-9-520x245.jpg</thumbnail>
+       </item>
+     
+       <item>
+       <title>canal 2 posadas</title>
+       <link>http://190.57.237.214/live/canal.m3u8</link>
+       <thumbnail>http://i35.servimg.com/u/f35/12/35/27/16/canal210.jpg</thumbnail>
+       </item>
+     
+       <item>
+       <title>canal 7 formosa</title>
+       <link>http://iphone-streaming.ustream.tv/uhls/8165274/streams/live/iphone/playlist.m3u8</link>
+       <thumbnail>http://static-cdn1.ustream.tv/i/channel/picture/8/1/6/5/8165274/8165274,640x360,r:2.jpg</thumbnail>
+       </item>
+     
+       <item>
+       <title>canal 7 mendoza</title>
+       <link>http://iphone-streaming.ustream.tv/uhls/16101191/streams/live/iphone/playlist.m3u8</link>
+       <thumbnail>http://www.chingonatv.com/wp-content/uploads/2013/11/Canal-7-Mendoza.jpg</thumbnail>
+       </item>
+     
+       <item>
+       <title>canal 4 posadas</title>
+       <link>rtmp://67.212.178.250/sav_canal4/myStream</link>
+       <thumbnail>http://i.imgur.com/BzEbT.png</thumbnail>
+       </item>
+     
+       <item>
+       <title>canal 27 posadas</title>
+       <link>rtmp://stream1.livestreamingservices.com/tvmlive/tvmlive</link>
+       <thumbnail></thumbnail>
+       </item>
+     
+       <item>
+       <title>canal 10 tv rionegrina</title>
+       <link>rtmp://198.50.154.40/live/live15</link>
+       <thumbnail>http://www.rionegro.com.ar/diario/funciones/binario/imagen.aspx?idart=703188&idcat=10944&idcon=2198928&resolucion=0&tipo=2</thumbnail>
+       </item>
+     
+       <item>
+       <title>canal 4 tv san juan</title>
+       <link>rtmp://streamlky.alsolnet.com/canal4sanjuan/live</link>
+       <thumbnail>http://radioteve.com/tele/suramerica/argentina/logos/canal4sanjuan.jpg</thumbnail>
+       </item>
+ 
+       <item>
+       <title>cronica tv</title>
+       <link>rtmp://wdc.cxnlive.com/live/cronica.stream</link>
+       <thumbnail>http://www.diarioveloz.com/adjuntos/120/imagenes/000/738/0000738356.jpg</thumbnail>
+       </item>
+ 
+       <item>
+       <title>construir</title>
+       <link>http://iphone-streaming.ustream.tv/uhls/9143107/streams/live/iphone/playlist.m3u8</link>
+       <thumbnail>http://www.itv-intermedya.com/news/itv-inter-media-signs-distribution-agreement-with-construir-tv/itv-inter-media-construirtv.jpg</thumbnail>
+       </item>
+ 
+       <item>
+       <title>telefe hd</title>
+       <link>rtmp://cp129990.live.edgefcs.net:443/live/notidiario@190117</link>
+       <thumbnail>http://foromedios.com/uploads/monthly_10_2014/post-10923-0-15135600-1412299668.png</thumbnail>
+       </item>
+ 
+       <item>
+       <title>canal 9</title>
+       <link>rtmp://sl100tb.cxnlive.com/live/canal9.stream</link>
+       <thumbnail>http://3.bp.blogspot.com/-R9mJQKMaWn8/T9QXjAaKqLI/AAAAAAAAHCM/EA38BY_eWQY/s1600/CANAL-9.png</thumbnail>
+       </item>
+ 
+       <item>
+       <title>america tv</title>
+       <link>rtmp://sl100tb.cxnlive.com/live/america.stream</link>
+       <thumbnail>http://visitemosmisiones.com/noticias/wp-content/uploads/2012/08/logoAmericaBlanco.jpg</thumbnail>
+       </item>
+ 
+       <item>
+       <title>digo tv</title>
+       <link>http://iphone-streaming.ustream.tv/uhls/12082398/streams/live/iphone/playlist.m3u8</link>
+       <thumbnail>http://gikplus.com/wp-content/uploads/2014/12/Untitled-1-710x266.jpg</thumbnail>
+       </item>
+ 
+       <item>
+       <title>tele creativa</title>
+       <link>http://iphone-streaming.ustream.tv/uhls/18545628/streams/live/iphone/playlist.m3u8</link>
+       <thumbnail>http://www.telecreativa.com/data/fotos/b_269074285_1_telecreativa.jpg</thumbnail>
+       </item>
+ 
+       <item>
+       <title>[COLOR blue]ESPAÑA[/COLOR]</title>
+       <link>_</link>
+<thumbnail>http://www.monarquiaespanola.es/imagenes/bandera.jpg</thumbnail>
+       </item>
+ 
+ 
+ 
+       <item>
+       <title>canal parlamento (madrid)</title>
+       <link>http://congresodirectomobile.edgesuite.net/live/live6.stream/manifest.m3u8</link>
+       <thumbnail>http://satcesc.com/web/wp-content/uploads/2012/03/parlamento.jpg</thumbnail>
+       </item>
+ 
+       <item>
+       <title>hispan tv (madrid)</title>
+       <link>http://ptv-hls.streaming.overon.es/channel04/01.m3u8</link>
+       <thumbnail>http://protestantedigital.com/upload/imagenes/48384_N_26-12-11-0-01-30.jpeg</thumbnail>
+       </item>
+ 
+       <item>
+       <title>kiss tv</title>
+       <link>rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live</link>
+       <thumbnail>http://1.bp.blogspot.com/-ogabHpr2CKk/UcBATuE3CEI/AAAAAAAAAXw/rxlBiRCK4IE/s1600/logokisstvj.jpg</thumbnail>
+       </item>
+ 
+       <item>
+       <title>canal 33 (madrid)</title>
+       <link>http://iphone-streaming.ustream.tv/uhls/15741867/streams/live/iphone/playlist.m3u8</link>
+       <thumbnail>https://informacionporlaverdad.files.wordpress.com/2011/10/logo_canal_33_p.jpg</thumbnail>
+       </item>
+ 
+       <item>
+       <title>la  otra (madrid)</title>
+       <link>rtmp://laotralivefs.fplive.net/laotralive-live?videoId=3706120795001&lineUpId=&pubId=104403117001&playerId=111868723001&affiliateId=/stream1?
+
+videoId=3706120795001&lineUpId=&pubId=104403117001&playerId=111868723001&affiliateId=</link>
+       <thumbnail>http://managingsport.com/files/images/la%20otra.gif</thumbnail>
+       </item>
+ 
+       <item>
+       <title>la sexta </title>
+       <link>http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8</link>
+       <thumbnail>http://img.actualidadmotor.com/wp-content/uploads/2011/03/LaSextaHD.jpeg</thumbnail>
+       </item>
+ 
+       <item>
+       <title>tele cinco</title>
+       <link>http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_21@168473/index_0_av-p.m3u8</link>
+       <thumbnail>http://marketing.es/wp-content/uploads/2008/09/logo-t5-1997.jpg</thumbnail>
+       </item>
+ 
+       <item>
+       <title>ondaluz sierra(cadiz)</title>
+       <link>http://cls.elitehd-audiovisuales.com/olsierra/livestream1/master.m3u8</link>
+       <thumbnail>http://1.bp.blogspot.com/-P3c2yfE1Uww/U-OUmhP67hI/AAAAAAAAAjI/15wK6GsidUY/s1600/ondaluzendirectoenvivo.png</thumbnail>
+       </item>
+ 
+<item>
+       <title>unacadiz tv (cadiz)</title>
+       <link>rtmp://flash3.todostreaming.es/unatv2/live</link>
+       <thumbnail>http://www.tvgratis.tv/logos/una-cadiz-tv-spain.png</thumbnail>
+       </item>
+ 
+       <item>
+       <title>anda luz (jerez)</title>
+       <link>http://cls.elitehd-audiovisuales.com/oljerez/livestream1/master.m3u8</link>
+       <thumbnail></thumbnail>
+       </item>
+ 
+<item>
+       <title>anda luz isla (cadiz)</title>
+       <link>http://cls.elitehd-audiovisuales.com/olisla/livestream1/master.m3u8</link>
+       <thumbnail></thumbnail>
+       </item>
+ 
+       <item>
+       <title>san roque (cadiz)</title>
+       <link>rtmp://flash3.todostreaming.es/sanroque/mystream</link>
+       <thumbnail></thumbnail>
+       </item>
+ 
+<item>
+       <title>cordoba ptv</title>
+       <link>rtmp://89.140.99.38/live/livestream</link>
+       <thumbnail>https://yt3.ggpht.com/-vhgfsuldKOs/AAAAAAAAAAI/AAAAAAAAAAA/qUdgDlz5UGo/s900-c-k-no/photo.jpg</thumbnail>
+       </item>
+ 
+       <item>
+       <title>condavision (huelva)</title>
+       <link>http://cls.todostreaming.eu/azahara/condavision/playlist.m3u8</link>
+       <thumbnail>https://pbs.twimg.com/profile_images/378800000405870591/d609f900d99194ba7cc9404f32ea31e0_400x400.png</thumbnail>
+       </item>
+ 
+<item>
+       <title>costa del sol tv (malaga)</title>
+       <link>rtmp://flash0.80385-live0.dna.qbrick.com/80385-live0/costa</link>
+       <thumbnail>http://www.tv14.net/wp-content/uploads/2010/09/Costa-del-Sol-TV.gif</thumbnail>
+       </item>
+ 
+       <item>
+       <title>mijas tv (malaga)</title>
+       <link>rtmp://teledifusion.tv/mijastv/mijastvlive</link>
+       <thumbnail>http://cdn.hernandezpsicologos.es/wp-content/uploads/colaboraciones-television-mijas-alejandra-hernandez-psicologos-marbella-fuengirola-
+
+malaga.jpg</thumbnail>
+       </item>
+ 
+ 
+<item>
+       <title>101 tv (malaga)</title>
+       <link>http://cls.todostreaming.eu/101tv/livestream/playlist.m3u8</link>
+       <thumbnail>http://grupomundo.es/sitio/wp-content/uploads/2012/05/101-TV-LOGO.jpg</thumbnail>
+       </item>
+ 
+       <item>
+       <title>marbella tv (malaga)</title>
+       <link>http://iphone-streaming.ustream.tv/uhls/15585029/streams/live/iphone/playlist.m3u8</link>
+       <thumbnail>http://cdn.hernandezpsicologos.es/wp-content/uploads/colaboraciones-radio-television-marbella-alejandra-hernandez-psicologos-marbella-fuengirola-
+
+malaga.jpg</thumbnail>
+       </item>
+ 
+ 
+<item>
+       <title>ondaluz ronda (malaga)</title>
+       <link>http://cls.elitehd-audiovisuales.com/olronda/livestream1/master.m3u8</link>
+       <thumbnail>https://yt3.ggpht.com/-tCasiYlr1As/AAAAAAAAAAI/AAAAAAAAAAA/rXt4r7olMJg/s100-c-k-no/photo.jpg</thumbnail>
+       </item>
+ 
+       <item>
+       <title>el correo tv (sevilla)</title>
+       <link>http://cls.elitehd-audiovisuales.com/luztv/livestream/playlist.m3u8</link>
+       <thumbnail>http://elcostal.org/wp-content/uploads/2014/03/El-correo-tv-fondo-rojo.jpg</thumbnail>
+       </item>
+ 
+ 
+<item>
+       <title>barbastro (huesca)</title>
+       <link>rtmp://flash3.todostreaming.es/tvbarbastro/livestream</link>
+       <thumbnail>http://blancojaca.mayencostriatlon.org/images/htv_156.jpg</thumbnail>
+       </item>
+ 
+       <item>
+       <title>aragon tv (zaragoza)</title>
+       <link>rtmp://aragontvlivefs.fplive.net/aragontvlive-live/stream_normal_abt</link>
+       <thumbnail>https://laringlera.files.wordpress.com/2013/10/aragontvlogo.jpg</thumbnail>
+       </item>
+ 
+<item>
+       <title>gijon(asturias)</title>
+       <link>http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone-multi/main.m3u8</link>
+       <thumbnail>http://www.tv14.net/wp-content/uploads/2010/09/TLG-Gijon.jpg</thumbnail>
+       </item>
+ 
+       <item>
+       <title>tele bahia (cantabria)</title>
+       <link>rtmp://62.42.17.93/live/Live</link>
+       <thumbnail>http://tvonlinegratis.com/wp-content/uploads/2014/08/TeleBahiaTV-Logo-300x300.jpg</thumbnail>
+       </item>
+ 
+<item>
+       <title>imas tv (ciudad real)</title>
+       <link>rtmp://149.11.34.6/live/imastv.stream</link>
+       <thumbnail>http://i.ytimg.com/i/lHnr_vedBFS0tAIljXBWvw/mq1.jpg?v=d4a2bc</thumbnail>
+       </item>
+ 
+       <item>
+       <title>tele toledo (toledo)</title>
+       <link>rtmp://cast.streamingconnect.tv/teletoledo/teletoledo</link>
+       <thumbnail>http://edu.jccm.es/ceip.condesdefuensalida/images/stories/Im%C3%A1genes_de_art%C3%ADculos/teletoledo.jpg</thumbnail>
+       </item>
+ 
+ 
+<item>
+       <title>tindaya tv (las palmas)</title>
+       <link>rtmp://videostream.provideo.es/tindayatv/livestream</link>
+       <thumbnail>http://2.bp.blogspot.com/-HhW0XiXp6co/Ua0ao2YDHII/AAAAAAAADiQ/S72QUoRDJeA/s1600/tindaya-tv-online-en-directo,-televisi%C3%B3n-en-el-mundo-,-en-
+
+vivo-online-png.png-logo.png</thumbnail>
+       </item>
+ 
+       <item>
+       <title>lancelot tv(las palmas)</title>
+       <link>rtmp://62.210.141.18:1935/directo/lancelot.television</link>
+       <thumbnail>https://motorfestlanzarote.files.wordpress.com/2014/06/lancelot-tv.jpg?w=200&h=200</thumbnail>
+       </item>
+ 
+<item>
+        <title>tv canaria (las palmas</title>
+        <link>http://streamrtvcdrb.mad.idec.net/rtvcnet/rtvcnet.drb.stream/master.m3u8</link>
+        <thumbnail>http://www.destinoespana.com/wp-content/uploads/2009/03/tv_canaria.jpg</thumbnail>
+        </item>
+ 
+       <item>
+        <title>mogan (las palmas)</title>
+        <link>mms://wm.mad.interhost.com/OjosSolidariosTv</link>
+        <thumbnail></thumbnail>
+        </item>
+ 
+       <item>
+        <title>324(barcelona)</title>
+        <link>rtmp://tv-nogeo-flashlivefs.fplive.net/tv-nogeo-flashlive-live/stream_324_FLV</link>
+        <thumbnail></thumbnail>
+        </item>
+ 
+       <item>
+        <title>valles visio (barcelona)</title>
+        <link>http://iphone-streaming.ustream.tv/uhls/14420271/streams/live/iphone/playlist.m3u8</link>
+        <thumbnail></thumbnail>
+        </item>
+ 
+       <item>
+        <title>tv girona (girona)</title>
+        <link>rtmp://tvgirona.dnssw.net/live/Icontouch</link>
+        <thumbnail></thumbnail>
+        </item>
+ 
+       <item>
+        <title>tele taxi tv (tarragona)</title>
+        <linkhttp://195.10.10.209/gtt/teletaxitv.flv></link>
+        <thumbnail></thumbnail>
+        </item>
+ 
+       <item>
+        <title>canal extramadura (ex badajoz)</title>
+        <link>rtmp://corporacionextremenaocclivefs.fplive.net/corporacionextremenalive-live/stream1</link>
+        <thumbnail></thumbnail>
+        </item>
+ 
+       <item>
+        <title>ferrol tv (la coruña)</title>
+        <link>mms://streaming.arsenet.com/tvf</link>
+        <thumbnail></thumbnail>
+        </item>
+ 
+ 
+<item>
+        <title>ga(la coruña)</title>
+        <link>http://media3.crtvg.es/live/tvge/playlist.m3u8</link>
+        <thumbnail></thumbnail>
+        </item>
+ 
+       <item>
+        <title>calvea (baleares)</title>
+        <link>rtmp://ib3tvlivefs.fplive.net/ib3tvlive-live/streamib3</link>
+        <thumbnail></thumbnail>
+        </item>
+ 
+       <item>
+        <title>ehs.tv ibiza (baleares)</title>
+        <link>rtmp://streaming6.streamteca.com/live/WXPHL</link>
+        <thumbnail></thumbnail>
+        </item>
+ 
+       <item>
+        <title>3 cat (palma de mallorca)</title>
+        <link>rtmp://tv-nogeo-flashlivefs.fplive.net/tv-nogeo-flashlive-live/stream_TV3CAT_FLV</link>
+        <thumbnail></thumbnail>
+        </item>
+ 
+       <item>
+        <title>lux mallorca (palma de mallorca)</title>
+        <link>rtmp://fl1.viastreaming.net/canal37/livestream</link>
+        <thumbnail></thumbnail>
+        </item>
+ 
+       <item>
+        <title>tv melilla (melilla)</title>
+        <link>rtmp://streaming5.streamteca.com/live/fd56e63737574f49b1a17383e9dfe735</link>
+        <thumbnail></thumbnail>
+        </item>
+ 
+       <item>
+        <title>navarra television (pamplona)</title>
+        <link>rtmp://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478ext</link>
+        <thumbnail></thumbnail>
+        </item>
+ 
+       <item>
+        <title>tele bilbao</title>
+        <link>rtmp://149.11.34.6/live/telebilbao.stream</link>
+        <thumbnail></thumbnail>
+        </item>
+ 
+ 
+       <item>
+        <title>canal plus Dcine</title>
+        <link>rtmp://188.165.208.114/live?token=DNQIr623NxSbn3vRBx7UjQExpired=1420134021 playpath=plusdcine 
+
+swfUrl=http://privado.streamingfreetv.net/embed/noreproductor.php?o=1&kpublica=29245 live=1 pageUrl=http://privado.streamingfreetv.net/embed/embed.php?
+
+channel=plusdcine&w=650&h=400</link>
+        <thumbnail></thumbnail>
+        </item>
+ 
+       <item>
+        <title>canal plus accion</title>
+        <link>http://acabsw.doiptv.com/cs_canal_accion/playlist.m3u8$OPT:http-user-agent=Lavf53.32.100</link>
+        <thumbnail></thumbnail>
+        </item>
+ 
+       <item>
+        <title>canal +</title>
+        <link>rtmp://37.58.52.100/live playpath=apagon1?id=219528 swfUrl=http://www.mips.tv/content/scripts/fplayer.swf live=1 pageUrl=http://www.mips.tv/ conn=S:OK 
+
+–live</link>
+        <thumbnail></thumbnail>
+        </item>
+ 
+       <item>
+        <title>caracol tv</title>
+        <link>rtmp://62.212.82.81/live playpath=krakol?id=217920 swfUrl=http://www.mipsplayer.com/content/scripts/fplayer.swf live=1 
+
+pageUrl=http://www.mipsplayer.com/embedplayer/krakol/1/620/382</link>
+        <thumbnail></thumbnail>
+        </item>
+ 
+<item>
+   <title>[COLOR yellow]RADIOS[/COLOR]</title>
+   <link>_</link>
+<thumbnail>http://www.sintelevisor.com/radio/imagenes/logo.jpg</thumbnail>
+   </item>
+ 
+       
+ 
+       <item>
+        <title>radio mitre</title>
+        <link>http://buecrplb01.cienradios.com.ar/mitremdz.mp3</link>
+        <thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logo_Mitre_SA.JPG/225px-Logo_Mitre_SA.JPG</thumbnail>
+        </item>
+ 
+       <item>
+        <title>metro 95.1</title>
+        <link>http://65.60.52.122:8615/metro.mp3
+</link>
+        <thumbnail>http://soundtracks.metro951.com/files/2011/12/Logo-Metro-95.1.jpg</thumbnail>
+        </item>
+ 
+       <item>
+        <title>vale 97.5</title>
+        <link>rtmp://vale.stweb.tv:1935/vale/ playpath=live swfUrl=http://cdn.radiosfm.org/swf/soundmanager2_flash9.swf live=1 pageUrl=http://www.radios-on-
+
+line.com.ar/#radio-vale-97-5-fm</link>
+        <thumbnail>https://pbs.twimg.com/profile_images/521972353371090944/vo-chsky_400x400.png</thumbnail>
+        </item>
+ 
+       <item>
+        <title>sonic fm</title>
+        <link>http://live.chicago.cdn.sonic.fm:8000/live128
+</link>
+        <thumbnail>http://www.viajerosdelmundo.net/viajeros-de-Argentina/imagen/Sonic.jpg</thumbnail>
+        </item>
+ 
+       <item>
+        <title>radio espn</title>
+        <link>http://edge.espn.cdn.abacast.net/espn-deportesmp3-48
+</link>
+        <thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/6/6e/ESPN_Radio_logo.svg/300px-ESPN_Radio_logo.svg.png</thumbnail>
+        </item>
+ 
+       <item>
+        <title>95.9 rock & pop fm</title>
+        <link>rtmp://rp.stweb.tv:1935/rockpop/ playpath=live swfUrl=http://www.vorterix.com/fmrockandpop/jwplayer/jwplayer.flash.swf live=1 
+
+pageUrl=http://www.vorterix.com/fmrockandpop/</link>
+        <thumbnail>http://www.cortea.tv/press/wp-content/uploads/rock-pop1.jpg</thumbnail>
+        </item>
+ 
+       <item>
+        <title>cope</title>
+        <link>http://195.10.10.224/cope/net1.mp3?
+
+GKID=8e263720a57c11e4b6bd00163e25ebaa&fspref=aHR0cDovL3d3dy5jb3BlLmVzL2RpcmVjdG8vaWQ9MjAxMjA5MjAxODA1MDAwMSZhY3Rpdm89NQ%3D%3D
+</link>
+        <thumbnail>http://www.vallamoto.net/Prensa%20CadenaCope.gif</thumbnail>
+        </item>
+ 
+ 
+<item>
+        <title>cadena ser</title>
+        <link>http://208.92.53.111/CADENASER.mp3
+</link>
+        <thumbnail>http://cadenaser00.epimg.net/iconos/v1.x/v1.0/promos/promo_og_ser.png</thumbnail>
+        </item>
+ 
+       <item>
+        <title>radiorama mexico</title>
+        <link>rtmp://s7.rtmphd.com:1935/radioideas playpath=9588 swfUrl=http://www.radioramaenlinea.com.mx/stream/player/aacplayer.swf live=1 
+
+pageUrl=http://www.radioramaenlinea.com.mx/stream/chilpancingo/xhpi/aacplayer.html</link>
+        <thumbnail>http://i.ytimg.com/vi/unzhokBPwPE/hqdefault.jpg</thumbnail>
+        </item>
+ 
+       <item>
+        <title>blu radio colombia</title>
+        <link>http://208.80.54.26/BLURADIO_SC?ran=0.2224131003022194
+</link>
+        <thumbnail>http://www.witsolutions.co/sites/default/files/ce-bluradio.png</thumbnail>
+        </item>
+ 
+       <item>
+        <title>99.7ke buena (mexico)</title>
+        <link>rtmp://s7.rtmphd.com:1935/radioideas playpath=9588 swfUrl=http://www.radioramaenlinea.com.mx/stream/player/aacplayer.swf live=1 
+
+pageUrl=http://www.radioramaenlinea.com.mx/stream/chilpancingo/xhpi/aacplayer.html</link>
+        <thumbnail>http://www.radioramaguerrero.com.mx/images/kebuenachilpologo.png</thumbnail>
+        </item>
+ 
+       <item>
+        <title>la cubanita</title>
+        <link>http://79.98.108.170:8139/;
+</link>
+        <thumbnail>http://cdn.radiosfm.org/images/logos/radiosdecuba-com/radio-la-cubanita.png</thumbnail>
+        </item>
+ 
+        <item>
+        <title>radio cubana</title>
+        <link>http://streaming.radionomy.com/Radio-Cubana
+</link>
+        <thumbnail>http://i.radionomy.com/documents/radio/20110209021001-Radio-Cubana-Logotipo-web2.s110.jpg</thumbnail>
+        </item>
+ 
+        <item>
+        <title>radio cubania</title>
+        <link>http://streaming.radionomy.com/cubania
+</link>
+        <thumbnail>http://cdn.radiosfm.org/images/logos/radiosdecuba-com/cubania.png</thumbnail>
+        </item>
+ 
+        <item>
+        <title>cx22 universal uruguay</title>
+        <link>http://108.160.144.91:9008/;stream.nsv
+</link>
+        <thumbnail>http://970universal.com/wp-content/uploads/2013/10/logo.jpg</thumbnail>
+        </item>
+ 
+        <item>
+        <title>classic 106.9 monterrey mexico</title>
+        <link>http://2223.live.streamtheworld.com/CLASSIC106_SC?tsp=1422460804851
+</link>
+        <thumbnail>http://www.mmradio.com/classic1069fm/images/logo.png</thumbnail>
+        </item>
+ 
+        <item>
+        <title>mega 97.9 NY USA</title>
+        <link>http://54.89.200.100/sbsystems-wskqfmmp3-ib-96?session-id=844777944</link>
+        <thumbnail>http://www.tecnetico.com/wp-content/uploads/2011/08/la_mega_97.91.jpg</thumbnail>
+        </item>
+ 
+        <item>
+        <title>Éxitos 98.7 santa rosa ca</title>
+        <link>http://stream.us.gslb.liquidcompass.net/KXTSFMAAC?
+
+lccb=1422459698585&os=Windows&browser=Chrome&ln=es&rk=r91679a&type=.flv&device=lcprodesktop&context=fHA6LTE=
+</link>
+        <thumbnail>http://player.liquidcompass.net/KXTSFM/L/500/1</thumbnail>
+        </item>
+ 
+       <item>
+        <title>fm tijuana la mejor</title>
+        <link>http://4893.live.streamtheworld.com/XHTIM_SC
+</link>
+        <thumbnail>http://d1i6vahw24eb07.cloudfront.net/s24607q.png</thumbnail>
+        </item>
+ 
+       <item>
+        <title>la maquina tropical 97.7 veracruz</title>
+        <link>http://72.29.70.19:8036/;
+</link>
+        <thumbnail>http://i.ytimg.com/vi/FeagqdTMXcQ/hqdefault.jpg</thumbnail>
+        </item>
+ 
+ 
+ 
+ 
+ 
+ 
+        <item>
+        <title>96.9 átomo fm merida yucatan</title>
+        <link>http://85.17.30.50:8136/;stream.nsv
+</link>
+        <thumbnail>http://www.cadenarasa.com/atomo/img/atomo-logo.png</thumbnail>
+        </item>
+ 
+ 
+<item>
+        <title>rg690 la deportiva de nuevo leon México</title>
+        <link>http://208.80.54.49/RG690
+</link>
+        <thumbnail>http://sp5.fotolog.com/photo/53/3/24/btoxf/1205810286_f.jpg</thumbnail>
+        </item>
+ 
+        <item>
+        <title>mix 106.5 mexico df</title>
+        <link>http://2223.live.streamtheworld.com/XHDFMFM_SC
+</link>
+        <thumbnail>http://www.raddios.com/public/avatar/592776704.jpg</thumbnail>
+        </item>
+ 
+        <item>
+        <title>la mega 107.3 venezuela</title>
+        <link>http://ur58.lorini.net:11073/megaccs.mp3
+</link>
+        <thumbnail>http://ve.raadios.com/file/imagen.php?i=a7b60d9d315119ed0d08424f7981b58b.jpg&x=240&y=90</thumbnail>
+        </item>
+ 
+       
+ 
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       <item>
+        <title>99.1 exitos venezuela</title>
+        <link>http://ur58.lorini.net:10999/exitosccs.mp3
+</link>
+        <thumbnail>https://pbs.twimg.com/profile_images/427800845854310400/MqZ3Ma5S_400x400.jpeg</thumbnail>
+        </item>
+ 
+       <item>
+        <title>retro hits</title>
+        <link>http://s15.myradiostream.com:7224/;stream.nsv
+</link>
+        <thumbnail>http://www.radiosnc.com/images/icon_retrohits.jpg</thumbnail>
+</item>
+ 
+  <item>
+        <title>rinoceronte fm chile</title>
+        <link>http://radio1.us.mediastre.am/rinoceronte.aac?type=.flv
+</link>
+        <thumbnail>https://pbs.twimg.com/profile_images/443722810880315392/CHg8euWy_400x400.jpeg</thumbnail>
+        </item>
+ 
+ 
+<item>
+        <title></title>
+        <link></link>
+        <thumbnail></thumbnail>
+        </item>
+ 
+ 
+ 
+ 
+       
+ 
+ 
+ 
+ 
+  <item>
+        <title></title>
+        <link></link>
+        <thumbnail></thumbnail>
+        </item>
+ 
+ 
+<item>
+        <title></title>
+        <link></link>
+        <thumbnail></thumbnail>
+        </item>
+ 
+ 
+ 
+ 
+ 
+ <item>
+        <title></title>
+        <link></link>
+        <thumbnail></thumbnail>
+        </item>
+ 
+        <item>
+        <title></title>
+        <link></link>
+        <thumbnail></thumbnail>
+        </item>
+ 
+        <item>
+        <title></title>
+        <link></link>
+        <thumbnail></thumbnail>
+        </item>
+ 
+ 
+ 
+        <item>
+        <title></title>
+        <link></link>
+        <thumbnail></thumbnail>
+        </item>
+ 
+ 
+ <item>
+        <title></title>
+        <link></link>
+        <thumbnail></thumbnail>
+        </item>
+ 
+        <item>
+        <title></title>
+        <link></link>
+        <thumbnail></thumbnail>
+        </item>
+ 
+     
+ 
+ 
+        <item>
+        <title></title>
+        <link></link>
+        <thumbnail></thumbnail>
+        </item>
+ 
+ 
+        <item>
+        <title></title>
+        <link></link>
+        <thumbnail></thumbnail>
+        </item>
+ 
+ 
+ 
+   
+        <item>
+        <title></title>
+        <link></link>
+        <thumbnail></thumbnail>
+        </item>
+ 
+        <item>
+        <title></title>
+        <link></link>
+        <thumbnail></thumbnail>
+        </item>
+ 
+        <item>
+        <title></title>
+        <link></link>
+        <thumbnail></thumbnail>
+        </item>
+ 
+ 
+ 
+        <item>
+        <title></title>
+        <link></link>
+        <thumbnail></thumbnail>
+        </item>
+ 
+ 
+ 
+ 
+ <item>
+        <title></title>
+        <link></link>
+        <thumbnail></thumbnail>
+        </item>
+ 
+        <item>
+        <title></title>
+        <link></link>
+        <thumbnail></thumbnail>
+        </item>
+ 
+<item>
+        <title></title>
+        <link></link>
+        <thumbnail></thumbnail>
+        </item>
+ 
+ 
+ 
+ <item>
+        <title></title>
+        <link></link>
+        <thumbnail></thumbnail>
+        </item>
+ 
+       
+ 
+        <item>
+        <title>chilevision opcion 1</title>
+        <link>rtmp://chv.live.ztreaming.com:80/chvapp2/ playpath=streamchv swfUrl=http://online.chilevision.cl/swf/flowplayer-3.2.7.swf live=1 
+
+pageUrl=http://www.chilevision.cl/home/senal-online.html</link>
+        <thumbnail></thumbnail>
+        </item>
+ 
+ 
+ <item>
+        <title>frecuencia latina</title>
+        <link>rtmp://flatina1livefs.fplive.net/flatina1live-live playpath=stream1 swfUrl=http://source.netandino.com/theme/player.swf?rnd=2 live=1 
+
+pageUrl=objectEncoding</link>
+        <thumbnail></thumbnail>
+        </item>
+ 
+       
+ 
+        <item>
+        <title>chilevision opcion 3</title>
+        <link>http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvMi.m3u8</link>
+        <thumbnail></thumbnail>
+ 
+ 
+<item>
+        <title>jetix</title>
+        <link>rtmp://extondemand.livestream.com/ondemand playpath=trans/dv02/mogulus-user-files/chjetixmax/2009/01/22/b7ec7220-f7e3-4031-8611-81d5334a1f59 
+
+swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?rnd=7&autoPlay=true&jsEnabled=false live=1 pageUrl=objectEncoding
+</link>
+        <thumbnail></thumbnail>
+        </item>
+ 
+       <item>
+        <title>cctv español</title>
+        <link>rtsp://}4.30.61.228/cctve-200</link>
+        <thumbnail></thumbnail>
+        </item>
+ 
+ 
+ 
+ 
+       </channel>
+             
+       </channels>
